@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **App Dev, MERN, Competitive Coding**
 
-- 📫 How to reach me **21cs3044@rgipt.ac.in**
+- 📫 How to reach me **singhpratap.shaurya8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
